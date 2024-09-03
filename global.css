@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-quicksand: Quicksand;
+  --font-ramabhadra: Ramabhadra;
+  --font-roboto: Roboto;
+  --font-grand-hotel: "Grand Hotel";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-gray: #0c0f14;
+  --color-white: #fff;
+}
